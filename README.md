@@ -1,7 +1,7 @@
 # dotsfile-my1st
 *My first configuration fro Archlinux, a newbie trial*
 
-And
+With
 * **Wallpaper**: Feh
 * **WM**: i3
 * **Bar**: polybar
